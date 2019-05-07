@@ -1,4 +1,4 @@
-# Pingpong SSH server
+# Ping-Pong SSH server
 
 This is a simple SSH server. When you connect to the server the terminal shows a "ping$" prompt. When you type something in the terminal the server responds with the same string and the preffix "pong" 
 
